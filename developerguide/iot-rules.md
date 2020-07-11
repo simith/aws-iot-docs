@@ -8,6 +8,7 @@ Rules give your devices the ability to interact with AWS services\. Rules are an
 + Publish data to an Amazon SQS queue\.
 + Invoke a Lambda function to extract data\.
 + Process messages from a large number of devices using Amazon Kinesis\.
++ Process messages from a large number of devices using Amazon Kinesis Firehose\.
 + Send data to the Amazon Elasticsearch Service\.
 + Capture a CloudWatch metric\. 
 + Change a CloudWatch alarm\.
